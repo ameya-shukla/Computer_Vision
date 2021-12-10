@@ -2,7 +2,7 @@
 import cv2
 
 #reading the file through the path
-path = r"/Users/ameyashukla/Ameya Shukla Personal/Ameya/Ameya.jpg"
+path = r"--image-path--"
 
 image = cv2.imread(path)
 
