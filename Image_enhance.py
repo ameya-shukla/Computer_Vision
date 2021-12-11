@@ -1,7 +1,7 @@
 from PIL import Image
 from PIL import ImageEnhance
 
-path = r"/Users/ameyashukla/Ameya Shukla Personal/Ameya/Ameya.jpg"
+path = r"--Image-Path--"
 
 img = Image.open(path)
 img.show()
