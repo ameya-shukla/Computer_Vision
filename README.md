@@ -6,3 +6,9 @@ Projects on basics of Image Processing and Computer Vision using OpenCV and Pyth
 * Python 3.7
 * OpenCV
 * PIL
+
+
+## Topics
+* `Grayscale_Binary` 
+  * Coverted an Image to Grayscale and then to Binary using OpenCV
+* `Image_Enhance`    
